@@ -16,6 +16,7 @@ Finding near-duplicates in large datasets is an important problem for many onlin
 - Margin Arc face 
 - DenseNet
 - TF-idf
+- NLTK
 
 ---
 ### Data Source
